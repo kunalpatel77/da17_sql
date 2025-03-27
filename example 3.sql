@@ -29,3 +29,4 @@ CREATE TABLE Customers_details(
 (18, 'Ryan', 'Martinez', 'ryan.martinez@example.com', '1212-1313-1414', '1515 Juniper Rd'),
 (19, 'Sophia', 'Robinson', 'sophia.robinson@example.com', '1313-1414-1515', '1616 Cypress Dr'),
 (20, 'Thomas', 'Clark', 'thomas.clark@example.com', '1414-1515-1616', '1717 Hemlock Ct')
+select * from Customers_details
